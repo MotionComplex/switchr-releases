@@ -4,6 +4,15 @@
     <title>switchr</title>
     <description>switchr updates</description>
     <item>
+      <title>switchr 1.0.1</title>
+      <pubDate>Sun, 05 Jul 2026 19:07:25 +0000</pubDate>
+      <sparkle:version>10001</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>Adds a first-run onboarding flow: a guided welcome, live permission setup, an appearance picker, and a quick gesture tutorial. Reachable anytime from the menu bar via 'Welcome to switchr…'.</description>
+      <enclosure url="https://github.com/MotionComplex/switchr-releases/releases/download/v1.0.1/switchr-1.0.1.dmg" sparkle:edSignature="JQdGdqpQRCBdh+7MsnIOJ+HfL0T63LkAxQR2O32S/UPgTEKRSkujZbYupPPFQhHABd/Zv7RR+hQxEy4RoDgiDQ==" length="2174470" type="application/octet-stream" />
+    </item>
+    <item>
       <title>switchr 1.0.0</title>
       <pubDate>Sun, 05 Jul 2026 18:33:12 +0000</pubDate>
       <sparkle:version>10000</sparkle:version>
