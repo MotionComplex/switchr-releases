@@ -1,7 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>switchr</title>
     <description>switchr updates</description>
+    <item>
+      <title>switchr 1.0.0</title>
+      <pubDate>Sun, 05 Jul 2026 18:33:12 +0000</pubDate>
+      <sparkle:version>10000</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>First public release of switchr — a free, fast macOS window switcher. Hold ⌥⇥ to browse every window with live previews; type to search, press 1–9 to jump, works across Spaces and monitors.</description>
+      <enclosure url="https://github.com/MotionComplex/switchr-releases/releases/download/v1.0.0/switchr-1.0.0.dmg" sparkle:edSignature="EiLi6B7iSb9m7BmF9ikiMP7Ws+M14QyILiQ0Vsa/oJX3eh8QmA70Og/ZzDrRyvK+rMq6U+2VWOqVb/B+coY7Cg==" length="2074563" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
