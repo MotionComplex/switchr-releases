@@ -4,6 +4,18 @@
     <title>switchr</title>
     <description>switchr updates</description>
     <item>
+      <title>switchr 1.1.0</title>
+      <pubDate>Sun, 08 Nov 2026 10:53:47 +0000</pubDate>
+      <sparkle:version>10100</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>ci: clear SwiftPM artifact cache before release build
+
+The macOS runner's cached Sparkle artifact makes the binary download
+fail with "already exists in file system".</description>
+      <enclosure url="https://github.com/MotionComplex/switchr-releases/releases/download/v1.1.0/switchr-1.1.0.dmg" sparkle:edSignature="3BwEaQYzWWNaPk2IjZE2OIGo/5GCXJqyh6dh2PTIk4bTZqORfqD/AEH+Ivp3fwpu2yMjKT0fWCJyYpJ8EkOsDg==" length="2248117" type="application/octet-stream" />
+    </item>
+    <item>
       <title>switchr 1.0.1</title>
       <pubDate>Sun, 05 Jul 2026 19:07:25 +0000</pubDate>
       <sparkle:version>10001</sparkle:version>
