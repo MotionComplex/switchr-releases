@@ -4,6 +4,15 @@
     <title>switchr</title>
     <description>switchr updates</description>
     <item>
+      <title>switchr 1.1.1</title>
+      <pubDate>Mon, 09 Nov 2026 05:56:58 +0000</pubDate>
+      <sparkle:version>10101</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>Dock previews now close, together with an auto-hidden Dock, when the mouse leaves the preview for free screen space. Crossing the gap between the Dock and the preview still keeps them open.</description>
+      <enclosure url="https://github.com/MotionComplex/switchr-releases/releases/download/v1.1.1/switchr-1.1.1.dmg" sparkle:edSignature="oJwcx3qEW4LzEq6u5mG30e0kD0aWdZ0yKr1qeduFYK9liVlfnSC7+v9HKHDQDRkto3f9gl5iVkUDLyANk9yoBw==" length="2248132" type="application/octet-stream" />
+    </item>
+    <item>
       <title>switchr 1.1.0</title>
       <pubDate>Sun, 08 Nov 2026 10:53:47 +0000</pubDate>
       <sparkle:version>10100</sparkle:version>
